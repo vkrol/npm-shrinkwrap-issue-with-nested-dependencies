@@ -2,6 +2,6 @@
   "name": "npm-shrinkwrap-issue-with-nested-dependencies",
   "private": true,
   "devDependencies": {
-    "fs-extra": "0.26.5"
+    "fs-extra": "0.30.0"
   }
 }
